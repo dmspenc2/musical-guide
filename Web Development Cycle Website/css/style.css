@@ -1,0 +1,25 @@
+img {
+    width: 50%;
+}
+main {
+    width: 69%;
+    margin: auto;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+section{
+    background-color: white;
+}
+
+p {
+    width: 64%;
+    padding: 0px 2%;
+    float: left;
+    text-align: left;
+}
+nav a:hover {
+     background-color: red;    
+}    
